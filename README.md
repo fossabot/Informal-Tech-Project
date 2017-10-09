@@ -1,4 +1,6 @@
 # TIL: Informal Tech Education in a Cross-Cultural Perspective
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FInformal-Tech-Project.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FInformal-Tech-Project?ref=badge_shield)
+
 ## Overview
 Every tech-oriented press outlet can attest to the fact that the “ed tech” industry has exploded in the past 10 years--from start-ups helping learners to code, to new platforms that scale to meet the needs of thousands of learners, technology has affected education in a profound way. (http://www.ambientinsight.com/Resources/Documents/AmbientInsight-2012-Learning-Technology-Investment-Patterns.pdf)
 
@@ -78,3 +80,7 @@ Shneiderman, B. (2002). Leonardo's Laptop: Human Needs and the New Computing Tec
 
 Wiske, M.S. (Ed.) (2005) Teaching for Understanding with Technology. San Francisco, CA: Jossey-Bass. Bates, A.W. (2005) Chapter 3 “Selecting and Using Technologies in Distance Education” pp. 41-66 in Technology, E-Learning, and Distance Education, 2nd Ed.U London: Routledge.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FInformal-Tech-Project.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FInformal-Tech-Project?ref=badge_large)
